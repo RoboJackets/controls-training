@@ -162,12 +162,9 @@ def simulate_system(
             for j in range(X0.shape[1]):
                 X = np.array([X0[i, j], X1[i, j]])
                 g = (goal(0),) if goal else ()
-                control_fn(X, 0, *g)
-                dX[:, i, j] = f(
-                    X,
-                    np.array(control_fn(X, 0, *g)).reshape(-1)
-                        if control_fn else np.array([0.]),
-                    0)
+                u = control_fn(X, 0, *g) if control_fn else 0.0
+                u = np.array(u).reshape(-1)
+                dX[:, i, j] = f(X, u if control_fn else np.array([0.]), 0)
 
         phase_ax.quiver(X0, X1, dX[x0i], dX[x1i])
         phase_ax.plot(x0s, x1s)
