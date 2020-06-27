@@ -201,6 +201,11 @@ def mass_spring_damper(m, k, c):
         return np.array([x[1], (u[0] - k * x[0] - c * x[1]) / m])
     return dynamics
 
+def first_order_velocity(m, c):
+    def dynamics(x, u, t):
+        return np.array([(u[0] - c * x[0]) / m])
+    return dynamics
+
 if __name__ == '__main__':
     # Run a test
     x0 = np.array([0, 1])
