@@ -8,4 +8,4 @@ to help RJ members learn theory and applications of Feedback Controls.
 
 ## Topics
 
-[DC Motors](/dc-motors)
+[DC Motors](/controls-training/dc-motors)
