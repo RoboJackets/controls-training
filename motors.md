@@ -33,7 +33,10 @@ Location: Virtual Google Meet
     - Example Control Loop
     - PID Control
 
+
 ## Prerequisite knowledge
 - Calculus (Integrals and Derivatives)
 - Basic Differential Equations (what are ODEs, etc)
 - Programming (Either MATLAB or Python)
+
+Please contact Varun Madabushi on Slack if you have any questions or topics you may want to add in.
