@@ -18,23 +18,25 @@ Location: Virtual Google Meet
 
 
 ## Topic List
+
 - How Brushed DC Motors Work
-    - Physical Principles
-    - Equivalent Circuit Model
+  - Physical Principles
+  - Equivalent Circuit Model
 - Brushed Motor Control Circuits
-    - H Bridges
-    - PWM Control
-    - Electronic Speed Controllers (ESCs)
+  - H Bridges
+  - PWM Control
+  - Electronic Speed Controllers (ESCs)
 - Designing with Brushed DC Motors
-    - Reading motor curves
-    - Simulating motor performance
+  - Reading motor curves
+  - Simulating motor performance
 - Feedback Control
-    - Sensors
-    - Example Control Loop
-    - PID Control
+  - Sensors
+  - Example Control Loop
+  - PID Control
 
 
 ## Prerequisite knowledge
+
 - Calculus (Integrals and Derivatives)
 - Basic Differential Equations (what are ODEs, etc)
 - Programming (Either MATLAB or Python)
