@@ -34,6 +34,12 @@ Location: Virtual Google Meet
   - Example Control Loop
   - PID Control
 
+Note: Some of the topics covered overlap with undergraduate
+control courses (ECE 3550, 4550). In particular, part of the lecture
+will be covering the hardware aspects of these classes that
+were lost due to the pandemic. This seminar is a great way to gain
+exposure to these topics from a practical approach!
+
 ## Prerequisite knowledge
 
 - Calculus (Integrals and Derivatives)
