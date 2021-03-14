@@ -43,6 +43,7 @@ exposure to these topics from a practical approach!
 
 - Calculus (Integrals and Derivatives)
 - Basic Differential Equations (what are ODEs, etc)
+- Basic Physics (Newton's Laws, Ohm's Law, Kirchoff's Laws)
 - Programming (Either MATLAB or Python)
 
 Please contact Varun Madabushi on Slack if you have any questions or topics you may want to add in.
