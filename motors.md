@@ -8,14 +8,13 @@ This is the website for the DC Motor training conducted in Spring 2021.
 
 ## Seminar Info
 
-Date: TBD (Please fill out the [Lettucemeet](https://lettucemeet.com/l/V0Mg0))
+Date: Sunday, March 28 at 6:30pm
 
 Location: Virtual Google Meet
 
 ## Important Links
 
-[Programming Language Form](https://forms.gle/Qcyw3fMNwqtrXuoq5) \
-[Lettucemeet](https://lettucemeet.com/l/V0Mg0)
+[Programming Language Form](https://forms.gle/Qcyw3fMNwqtrXuoq5)
 
 ## Topic List
 
