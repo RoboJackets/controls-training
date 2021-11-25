@@ -2,6 +2,7 @@
 % By Varun Madabushi
 % RoboJackets
 % Oct 2021
+% Good resource for learning how this works: http://learningrc.com/motor-kv/
 
 close all
 
